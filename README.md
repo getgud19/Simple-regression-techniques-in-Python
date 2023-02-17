@@ -1,1 +1,0 @@
-# Simple-regression-techniques-in-Python
